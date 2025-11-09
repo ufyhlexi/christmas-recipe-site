@@ -1,0 +1,501 @@
+[
+  {
+    "id": "1",
+    "title": "Äppelkaka",
+    "description": "En saftig äppelkaka med smaler av kanel och karemumma",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_243393/cf_259/appelkaka.jpg",
+    "timeInMins": "Under 60",
+    "difficulty": "Medel",
+    "price": 99,
+    "categories": ["Bakelser", "Kakor", "Paj"],
+    "instructions": [
+      "Sätt ugnen på 175C",
+      "Smörj och bröa en rund form med löstagbar kant, ca 24 cm i dm med matfett och ströbröd",
+      "Kaka: Mortla kardemumma. Rör ihop matfettet med socke roch kardemumma. Tillsätt ett ägg i taget och vispa väl mellan varje ägg. Vispa ner mjölken. Vänd ner mjölet blandat med bakpulvret. Rör ihop till en slät smet. Häll smeten i formen",
+      "Fyllning och garnering: Skala och skär äpplena i tunna klyftor. Blanda dem med kanel och socker och stick ner klyftorna i tätt i smeten runtom kakan.",
+      "Grädda kakan i nedre delen av ugnen 30-40 min. Kontrollera med provsticka att kakan är torr.",
+      "Serveringsförslag: Servera kakan ljummen eller kall med vanliljsås, lättvispad grädde eller vaniljglass."
+    ],
+    "ingredients": [
+      { "name": "Smör eller margarin", "amount": 1, "unit": "msk" },
+      { "name": "Hela kardemummakärnor", "amount": 1, "unit": "tsk" },
+      { "name": "Rumstemepererat smör", "amount": 125, "unit": "gram" },
+      { "name": "Strösocker", "amount": 2, "unit": "dl" },
+      { "name": "Ägg", "amount": 2, "unit": "st" },
+      { "name": "Mjölk", "amount": 0.5, "unit": "dl" },
+      { "name": "Vetemjöl", "amount": 2.5, "unit": "dl" },
+      { "name": "Bakpulver", "amount": 1.5, "unit": "dl" },
+      { "name": "Medelstora äpplen", "amount": 2, "unit": "st" },
+      { "name": "Malen kanel", "amount": 1.5, "unit": "tsk" },
+      { "name": "Strösocker", "amount": 1, "unit": "msk" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Morotsbollar",
+    "description": "Morotsbollar med mandel, kardemumma och citron",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_123761/cf_259/morotsbollar_med_mandel__kardemumma_och_citron.jpg",
+    "timeInMins": "Under 30",
+    "difficulty": "Medel",
+    "price": 49,
+    "categories": ["Bakelser", "Kokos"],
+    "instructions": [
+      "Mixa alla ingredienser utom kokosen i en matberedare. Smaksätt med några droppar citronsaft.",
+      "Rulla smeten till runda bollar",
+      "Rulla bollarna i kokosen"
+    ],
+    "ingredients": [
+      { "name": "Finrivna morötter", "amount": 2, "unit": "dl" },
+      { "name": "Hela skalade mandlar", "amount": 100, "unit": "gram" },
+      { "name": "Urkärnade dadlar", "amount": 100, "unit": "gram" },
+      { "name": "Malen kardemumma", "amount": 1, "unit": "tsk" },
+      {
+        "name": "Citron (rivet skal och några droppar saft)",
+        "amount": 0.5,
+        "unit": "citron"
+      },
+      { "name": "Riven kokos", "amount": 1, "unit": "dl" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Chokladtryfflar med pepparkaks",
+    "description": "Len mörk chokladtryffel med smak av pepparkaka – perfekt till julens gottebord.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_65420/cf_259/julchokladtryffel_med_pepparkakskross.jpg",
+    "timeInMins": "Under 45",
+    "difficulty": "Medel",
+    "price": 55,
+    "categories": ["Godis", "Jul", "Choklad"],
+    "instructions": [
+      "Hacka chokladen fint och lägg i en skål.",
+      "Koka upp grädden med smör och pepparkakskrydda.",
+      "Häll den heta gräddblandningen över chokladen och rör tills den smält och blivit slät.",
+      "Låt tryffelsmeten stelna i kyl ca 2 timmar.",
+      "Forma små bollar och rulla i kakao eller florsocker."
+    ],
+    "ingredients": [
+      { "name": "Mörk choklad (70%)", "amount": 200, "unit": "gram" },
+      { "name": "Vispgrädde", "amount": 1, "unit": "dl" },
+      { "name": "Smör", "amount": 25, "unit": "gram" },
+      { "name": "Pepparkakskrydda", "amount": 1, "unit": "tsk" },
+      { "name": "Kakao (att rulla i)", "amount": 3, "unit": "msk" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Saffranskokosbollar",
+    "description": "Juliga kokosbollar med saffran och vit choklad – söta, solgula och ljuvligt goda.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_245027/cf_259/saffransbollar.jpg",
+    "timeInMins": "Över 60",
+    "difficulty": "Medel",
+    "price": 45,
+    "categories": ["Godis", "Jul", "Kokos"],
+    "instructions": [
+      "Smält smöret och låt svalna något.",
+      "Rör ner saffran och vit choklad i det smälta smöret.",
+      "Blanda i havregryn, socker och vaniljsocker och arbeta ihop till en smet.",
+      "Forma små bollar och rulla i riven kokos.",
+      "Förvara i kylskåp tills de stelnat."
+    ],
+    "ingredients": [
+      { "name": "Smör", "amount": 75, "unit": "gram" },
+      { "name": "Havregryn", "amount": 3, "unit": "dl" },
+      { "name": "Vit choklad, hackad", "amount": 50, "unit": "gram" },
+      { "name": "Saffran", "amount": 0.5, "unit": "g" },
+      { "name": "Strösocker", "amount": 1, "unit": "dl" },
+      { "name": "Vaniljsocker", "amount": 1, "unit": "tsk" },
+      { "name": "Riven kokos (att rulla i)", "amount": 1, "unit": "dl" }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Kläddig kladdkaka",
+    "description": "Kläddig kladdkaka är en klassisk svensk chokladkaka med härligt seg och kladdig konsistens. Perfekt med vispgrädde och färska bär.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_221660/cf_259/kladdig_kladdkaka.jpg",
+    "timeInMins": "Under 45",
+    "difficulty": "Medel",
+    "price": 79,
+    "categories": ["Bakverk", "Choklad", "Kakor"],
+    "instructions": [
+      "Sätt ugnen på 200°C, under- och övervärme.",
+      "Smörj och bröa en form med löstagbar kant, ca 24 cm i diameter.",
+      "Smält smöret i kastrull och låt svalna något.",
+      "Vispa ihop ägg och socker (använd inte elvisp).",
+      "Blanda kakao, vaniljsocker, vetemjöl och salt i en bunke och rör ner i äggblandningen.",
+      "Tillsätt det smälta smöret och blanda försiktigt ihop till en jämn smet.",
+      "Häll smeten i formen.",
+      "Grädda mitt i ugnen i ca 10–15 minuter tills kakan är kladdig i mitten.",
+      "Ta ut och låt kladdkakan svalna.",
+      "Sikta florsocker över kakan och servera med vispad grädde och färska bär."
+    ],
+    "ingredients": [
+      { "name": "Smör till formen", "amount": null, "unit": "" },
+      { "name": "Ströbröd till formen", "amount": null, "unit": "" },
+      { "name": "Smör", "amount": 100, "unit": "gram" },
+      { "name": "Ägg", "amount": 2, "unit": "st" },
+      { "name": "Strösocker", "amount": 2.5, "unit": "dl" },
+      { "name": "Kakao", "amount": 3, "unit": "msk" },
+      { "name": "Vaniljsocker", "amount": 2, "unit": "tsk" },
+      { "name": "Vetemjöl", "amount": 1.5, "unit": "dl" },
+      { "name": "Salt", "amount": 1, "unit": "krm" },
+      { "name": "Florsocker till garnering", "amount": null, "unit": "" },
+      { "name": "Vispgrädde", "amount": 2, "unit": "dl" },
+      { "name": "Färska bär", "amount": null, "unit": "" }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Saftig sockerkaka",
+    "description": "En klassisk och saftig sockerkaka som blir perfekt att servera till kaffet. En grundrecept som du kan smaksätta med kardemumma, citrus eller ingefära.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_234312/cf_259/saftig_sockerkaka.jpg",
+    "timeInMins": "Under 60",
+    "difficulty": "Medel",
+    "price": 69,
+    "categories": ["Bakelser", "Kakor", "Klassiker"],
+    "instructions": [
+      "Sätt ugnen på 175°C.",
+      "Smörj och bröa en bakform, ca 2 liter eller 24 cm i diameter.",
+      "Vispa ägg och socker pösigt.",
+      "Blanda mjöl, bakpulver och ev. smaksättning i en skål och rör ner i äggsmeten.",
+      "Koka upp mjölken med matfettet och rör ner det.",
+      "Häll smeten i formen.",
+      "Grädda kakan i nedre delen av ugnen 35–40 minuter tills den är gyllene och en sticka kommer ut torr."
+    ],
+    "ingredients": [
+      {
+        "name": "Smör eller margarin (till formen)",
+        "amount": 1,
+        "unit": "msk"
+      },
+      { "name": "Ströbröd (till formen)", "amount": 2, "unit": "msk" },
+      { "name": "Ägg", "amount": 3, "unit": "st" },
+      { "name": "Strösocker", "amount": 3, "unit": "dl" },
+      { "name": "Vetemjöl", "amount": 3.5, "unit": "dl" },
+      { "name": "Bakpulver", "amount": 2, "unit": "tsk" },
+      { "name": "Mjölk", "amount": 1.5, "unit": "dl" },
+      { "name": "Smör eller margarin", "amount": 50, "unit": "gram" },
+      { "name": "Kardemumma (valfritt)", "amount": 1, "unit": "tsk" },
+      {
+        "name": "Rivet skal av grapefruit eller annan citrusfrukt",
+        "amount": 0.5,
+        "unit": "st"
+      },
+      { "name": "Vaniljsocker", "amount": 2, "unit": "tsk" }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Världens godaste äppelsmulpaj",
+    "description": "En härligt knaprig äppelsmulpaj med den perfekta kombinationen av sött, surt och flingsalt. Serveras bäst med vaniljsås, vispad grädde eller glass.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_77225/cf_259/toscakaka.jpg",
+    "timeInMins": "Under 45",
+    "difficulty": "Medel",
+    "price": 89,
+    "categories": ["Bakelser", "Paj", "Äpple"],
+    "instructions": [
+      "Sätt ugnen på 225°C.",
+      "Smul: Skär smöret i bitar. Nyp ihop smör, mjöl och havregryn till en smulig massa.",
+      "Blanda i socker och flingsalt. Ta lite i taget av flingsaltet och smaka av degen så att saltbalansen blir lagom.",
+      "Fyllning: Skala, kärna ur och skär äpplena i mindre bitar.",
+      "Blanda äpplena med kanel, socker och flingsalt och lägg i en smord pajform, ca 28 cm i diameter (för 6 port).",
+      "Fördela smulorna över äpplena och grädda pajen mitt i ugnen i 20–25 minuter tills den fått fin färg.",
+      "Till servering: Låt svalna något och servera med vispad grädde, vaniljsås eller glass."
+    ],
+    "ingredients": [
+      { "name": "Kallt smör", "amount": 125, "unit": "gram" },
+      { "name": "Vetemjöl", "amount": 2, "unit": "dl" },
+      { "name": "Havregryn", "amount": 1, "unit": "dl" },
+      { "name": "Socker", "amount": 0.5, "unit": "dl" },
+      { "name": "Flingsalt", "amount": 0.5, "unit": "tsk" },
+      { "name": "Äpplen", "amount": 800, "unit": "gram" },
+      { "name": "Kanel", "amount": 1, "unit": "tsk" },
+      { "name": "Socker", "amount": 2, "unit": "tsk" },
+      { "name": "Flingsalt (för fyllningen)", "amount": 1, "unit": "krm" },
+      { "name": "Smör till formen", "amount": null, "unit": "" },
+      { "name": "Vispad grädde", "amount": null, "unit": "" },
+      { "name": "Vaniljsås", "amount": null, "unit": "" },
+      { "name": "Glass", "amount": null, "unit": "" }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Chokladbollar",
+    "description": "Dessa chokladbollar får en god smak av att smöret först får puttra. Rulla chokladbollarna i kokos eller pärlsocker, det som du själv föredrar.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_240269/cf_259/chokladbollar.jpg",
+    "timeInMins": "Under 60",
+    "difficulty": "Enkel",
+    "price": 45,
+    "categories": ["Bakverk", "Godis", "Jul"],
+    "instructions": [
+      "Smält smöret och låt puttra i 1 minut.",
+      "Blanda socker, vaniljsocker, kakao, havregryn, kaffe och smör med en elvisp.",
+      "Ställ i kylskåp så att smeten stelnar lite, ca 40 minuter.",
+      "Forma bollar. Rulla i pärlsocker, kokos eller strössel."
+    ],
+    "ingredients": [
+      { "name": "Smör", "amount": 100, "unit": "gram" },
+      { "name": "Strösocker", "amount": 1, "unit": "dl" },
+      { "name": "Vaniljsocker", "amount": 1, "unit": "msk" },
+      { "name": "Kakao", "amount": 3, "unit": "msk" },
+      { "name": "Havregryn", "amount": 3, "unit": "dl" },
+      { "name": "Kallt starkt kaffe", "amount": 3, "unit": "msk" },
+      {
+        "name": "Pärlsocker / kokos / strössel att rulla i",
+        "amount": null,
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Chokladsås",
+    "description": "Mjuk och följsam chokladsås, som smakar ljuvligt. Såsens krämighet och smak kommer från smör, kakao, sirap, socker och grädde.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_239737/cf_259/chokladsas.jpg",
+    "timeInMins": "Under 15",
+    "difficulty": "Enkel",
+    "price": 35,
+    "categories": ["Sås", "Dessert", "Jul"],
+    "instructions": [
+      "Smält smöret och vispa i kakaon. Tillsätt sirap, socker och sist grädden.",
+      "Koka upp och låt koka 30 sekunder till 1 minut, ju längre koktid desto tjockare blir såsen. Späd med lite vatten om det behövs."
+    ],
+    "ingredients": [
+      { "name": "Smör", "amount": 1, "unit": "msk" },
+      { "name": "Kakao", "amount": 1.5, "unit": "msk" },
+      { "name": "Sirap", "amount": 1, "unit": "msk" },
+      { "name": "Socker", "amount": 3, "unit": "msk" },
+      { "name": "Grädde", "amount": 1, "unit": "dl" }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Klassisk chokladmousse",
+    "description": "Upptäck vårt klassiska recept på chokladmousse, perfekt när du behöver enkel men lyxig efterrätt i glas med choklad. Denna enkla chokladmousse är en klassisk chokladdessert som passar utmärkt till alla tillfällen, både fest och nyårsafton.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/vfjeujfrglhnsz5fa8um.jpg",
+    "timeInMins": "Över 60",
+    "difficulty": "Medel",
+    "price": 75,
+    "categories": ["Dessert", "Choklad", "Jul"],
+    "instructions": [
+      "Koka upp 1 dl av grädden (för 4 portioner) i en kastrull. Ta kastrullen från värmen.",
+      "Hacka chokladen och rör ut den i den varma grädden tills chokladen har smält.",
+      "Vispa resten av grädden.",
+      "Vispa äggulorna luftigt.",
+      "Värm socker och vatten och rör tills sockret lösts upp. Tillsätt den varma sockerlagen i ägguleskummet och vispa till ett ljust skum.",
+      "Vänd försiktigt ner ägguleskummet i chokladen och rör därefter i den vispade grädden.",
+      "Häll upp i glas eller formar och ställ i kylen minst 2 timmar.",
+      "Till servering: Servera chokladmoussen med exempelvis apelsinfiléer, färska bär, riven choklad och vispad grädde."
+    ],
+    "ingredients": [
+      { "name": "Vispgrädde", "amount": 2.5, "unit": "dl" },
+      { "name": "Mörk bakchoklad (70%)", "amount": 100, "unit": "gram" },
+      { "name": "Strösocker", "amount": 1, "unit": "dl" },
+      { "name": "Vatten", "amount": 1, "unit": "msk" },
+      { "name": "Äggulor", "amount": 3, "unit": "st" },
+      {
+        "name": "Apelsinfiléer / färska bär / riven choklad / vispad grädde till servering",
+        "amount": null,
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Chokladtryffel",
+    "description": "Det här kan vara världens godaste chokladtryffel! En klassisk konfekt på mörk choklad, vispgrädde, smör och salt. Len, krämig och mäktig, men alldeles lagom liten. Servera till kaffet eller som dessert efter maten.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/s55jezh6zpsl4jc9bw0l.jpg",
+    "timeInMins": "Över 60",
+    "difficulty": "Medel",
+    "price": 65,
+    "categories": ["Godis", "Dessert", "Jul"],
+    "instructions": [
+      "Hacka eller bryt chokladen i mindre bitar.",
+      "Koka upp grädde, smör och salt i en kastrull.",
+      "Ta kastrullen från värmen och lägg i chokladen. Låt stå någon minut och rör sedan smeten jämn och blank.",
+      "Häll upp i en skål eller form och låt svalna i kylen ca 1 timme.",
+      "Forma chokladsmeten till runda bollar. Rulla bollarna i kakao.",
+      "Förvara tryfflarna i kylen."
+    ],
+    "ingredients": [
+      { "name": "Mörk bakchoklad (55%)", "amount": 200, "unit": "gram" },
+      { "name": "Vispgrädde", "amount": 1, "unit": "dl" },
+      { "name": "Smör", "amount": 50, "unit": "gram" },
+      { "name": "Salt", "amount": 1, "unit": "krm" },
+      { "name": "Kakao (att rulla i)", "amount": 1.5, "unit": "msk" }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Perfekt chokladfondant",
+    "description": "Vår godaste chokladfondant är som en perfekt liten chokladvulkan, full med rinnig choklad. En klassisk chokladdessert på kakao som du kan förbereda dagen innan och grädda precis innan servering.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/ziqstltab7fpzafshmzx.jpg",
+    "timeInMins": "Under 30",
+    "difficulty": "Medel",
+    "price": 80,
+    "categories": ["Dessert", "Choklad", "Jul"],
+    "instructions": [
+      "Sätt ugnen på 190°C.",
+      "Smält ihop choklad och smör.",
+      "Vispa snabbt ihop ägg, äggulor och socker. Rör ner chokladsmöret i äggsmeten.",
+      "Sikta i kakao och vetemjöl, rör om ordentligt.",
+      "Smöra och mjöla portionsformar. Häll upp smeten i formarna, tryck ner en chokladruta i mitten (inte hela vägen ner).",
+      "Grädda i mitten av ugnen tills ytan precis torkat, 8–12 min. Ta ut och låt vila 1–2 minuter.",
+      "Lossa försiktigt runt kanterna med en kniv. Stjälp upp på tallrik, sikta över florsocker och servera med en kula vaniljglass och färska hallon."
+    ],
+    "ingredients": [
+      { "name": "Choklad (70%)", "amount": 125, "unit": "gram" },
+      { "name": "Osaltat smör", "amount": 100, "unit": "gram" },
+      { "name": "Ägg", "amount": 3, "unit": "st" },
+      { "name": "Äggulor", "amount": 2, "unit": "st" },
+      { "name": "Strösocker", "amount": 0.5, "unit": "dl" },
+      { "name": "Kakao", "amount": 2, "unit": "msk" },
+      { "name": "Vetemjöl", "amount": 25, "unit": "gram" },
+      { "name": "Smör och mjöl till formarna", "amount": null, "unit": "" },
+      { "name": "Chokladrutor (70%, valfri smak)", "amount": 4, "unit": "st" },
+      {
+        "name": "Florsocker, vaniljglass, färska hallon till servering",
+        "amount": null,
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Jordgubbstiramisu",
+    "description": "En somrig och svensk version av tiramisu i glas där lager av mascarponekräm varvas med jordgubbar och fläder. En festlig och annorlunda dessert som är enkel att göra.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_200897/cf_259/jordgubbstiramisu.jpg",
+    "timeInMins": "Över 60",
+    "difficulty": "Enkel",
+    "price": 85,
+    "categories": ["Dessert", "Tiramisu", "Sommar"],
+    "instructions": [
+      "Ansa och skiva jordgubbarna.",
+      "Vispa ihop äggulor, mascarpone och socker till en fast kräm. Vispa grädden fluffig. Vänd ner grädden i äggsmeten.",
+      "Blanda Amaretto och flädersaft. Doppa kexen hastigt och lägg i botten på varje glas. Fördela jordgubbarna och smeten över.",
+      "Låt stå i kylen några timmar före servering.",
+      "Vid servering: Pudra över kakao."
+    ],
+    "ingredients": [
+      { "name": "Färska jordgubbar", "amount": 0.5, "unit": "liter" },
+      { "name": "Äggulor", "amount": 2, "unit": "st" },
+      { "name": "Mascarpone (250 g burk)", "amount": 1, "unit": "burk" },
+      { "name": "Strösocker", "amount": 0.5, "unit": "dl" },
+      { "name": "Vispgrädde", "amount": 1.5, "unit": "dl" },
+      { "name": "Amaretto (eller konjak)", "amount": 2, "unit": "msk" },
+      { "name": "Flädersaft, koncentrerad", "amount": 1, "unit": "dl" },
+      { "name": "Savoiardikex", "amount": 8, "unit": "st" },
+      { "name": "Kakao till servering", "amount": null, "unit": "" }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Tiramisu i glas",
+    "description": "Tiramisu är en klassisk italiensk dessert som är mångas favorit. Gör den i portionsglas så blir den extra fin att bjuda på. Täckt med kakao och fylld med kräm på ägg, mascarpone och socker samt kaffe och Amaretto – en elegant dessert som kan göras i förväg.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_250380/cf_259/tiramisu_i_glas.jpg",
+    "timeInMins": "Över 60",
+    "difficulty": "Medel",
+    "price": 90,
+    "categories": ["Dessert", "Italienskt", "Jul"],
+    "instructions": [
+      "Vispa ihop äggulor och mascarpone till en slät smet.",
+      "Vispa äggvitorna fluffiga med elvisp. Tillsätt sockret lite i taget och fortsätt vispa tills smeten är fast och blank.",
+      "Vänd ner äggvitesmeten i äggulesmeten med hjälp av en slickepott.",
+      "Blanda kaffe och Amaretto. Doppa kexen i kaffet ett par sekunder.",
+      "Varva delade kex med äggvispet i portionsglas. Avsluta med ett lager äggsmet.",
+      "Ställ i kylen minst 5 timmar före servering.",
+      "Pudra över kakao vid servering."
+    ],
+    "ingredients": [
+      { "name": "Äggulor", "amount": 2, "unit": "st" },
+      { "name": "Mascarpone (à 250 g)", "amount": 1, "unit": "burk" },
+      { "name": "Äggvitor", "amount": 2, "unit": "st" },
+      { "name": "Strösocker", "amount": 0.5, "unit": "dl" },
+      {
+        "name": "Kall espresso eller starkt kaffe",
+        "amount": 0.75,
+        "unit": "dl"
+      },
+      { "name": "Amaretto, konjak eller rom", "amount": 2, "unit": "msk" },
+      { "name": "Savoiardikex", "amount": 8, "unit": "st" },
+      { "name": "Kakao att pudra över", "amount": null, "unit": "" }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Tiramisu med rabarber",
+    "description": "En frisk och färgstark version av tiramisu där rabarber möter hallon och apelsin. En perfekt dessert för sommar eller julbord – fräsch, krämig och med fin syra. Låt gärna stå i kylen över natten.",
+    "ratings": [],
+    "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_137480/cf_259/tiramisu_med_rabarber__hallon_och_apelsin.jpg",
+    "timeInMins": "Under 60",
+    "difficulty": "Medel",
+    "price": 95,
+    "categories": ["Dessert", "Tiramisu", "Frukt"],
+    "instructions": [
+      "Kompott: Lägg skivad rabarber, hallon, strösocker, färskpressad citronjuice och vaniljpulver i en kastrull. Koka upp och låt småkoka utan lock på medelvärme till en fast kompott, 10–15 minuter. Rör då och då. Låt kallna helt.",
+      "Kräm: Vispa äggulor, mascarpone och vaniljpulver till en slät kräm med elvisp.",
+      "Maräng: Vispa äggvitor till ett vitt skum med elvisp. Tillsätt strösocker, lite i taget, och fortsätt vispa till en fast maräng. Rör ner i mascarponekrämen.",
+      "Kex: Blanda färskpressad apelsinjuice och apelsinlikör. Doppa savoiardikex i juicen.",
+      "Till servering: Varva kompott, kex och mascarponekräm i glas (för 6 port). Servera med färska hallon."
+    ],
+    "ingredients": [
+      { "name": "Rabarber, skivade", "amount": 300, "unit": "gram" },
+      { "name": "Hallon", "amount": 1, "unit": "dl" },
+      { "name": "Strösocker", "amount": 1, "unit": "dl" },
+      { "name": "Färskpressad citronjuice", "amount": 2, "unit": "msk" },
+      { "name": "Vaniljpulver", "amount": 1, "unit": "krm" },
+      { "name": "Äggulor", "amount": 2, "unit": "st" },
+      { "name": "Mascarpone", "amount": 250, "unit": "gram" },
+      { "name": "Vaniljpulver (till krämen)", "amount": 1, "unit": "krm" },
+      { "name": "Äggvitor", "amount": 2, "unit": "st" },
+      { "name": "Strösocker (till marängen)", "amount": 0.75, "unit": "dl" },
+      { "name": "Färskpressad apelsinjuice", "amount": 1, "unit": "dl" },
+      { "name": "Apelsinlikör (t.ex. Cointreau)", "amount": 2, "unit": "msk" },
+      { "name": "Savoiardikex", "amount": 10, "unit": "st" },
+      { "name": "Färska hallon till servering", "amount": null, "unit": "" }
+    ]
+  },
+  {
+  "id": "16",
+  "title": "Lakritskladdkaka",
+  "description": "Se hit alla lakritsälskare! Krossad turkisk peppar och kakao är en oväntat lyckad kombination – blandningen av salt, sött och choklad i en underbar kladdkaka. Servera gärna med vispad grädde och krossad turkisk peppar för extra crunch.",
+  "ratings": [],
+  "imageUrl": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_125911/cf_259/lakritskladdkaka.jpg",
+  "timeInMins": "Under 30",
+  "difficulty": "Enkel",
+  "price": 60,
+  "categories": ["Dessert", "Choklad", "Lakrits"],
+  "instructions": [
+    "Sätt ugnen på 175°C.",
+    "Smörj eller spänn fast ett bakplåtspapper i en form med löstagbar kant, ca 24 cm i diameter.",
+    "Smält smöret i en kastrull och ta av från plattan.",
+    "Krossa karamellerna fint i en mortel. Blanda dem och kakaon med mjölet.",
+    "Blanda ner sockret i det smälta smöret. Rör sedan ner ett ägg i taget. Vänd ner mjölblandningen i smeten och häll i formen.",
+    "Grädda kakan mitt i ugnen ca 18 minuter.",
+    "Låt kakan svalna i formen på ett galler. Lossa runt kanten med en kniv medan den fortfarande är varm.",
+    "Låt kakan kallna helt innan servering."
+  ],
+  "ingredients": [
+    { "name": "Smör", "amount": 100, "unit": "gram" },
+    { "name": "Turkisk peppar (original karameller)", "amount": 150, "unit": "gram" },
+    { "name": "Kakao", "amount": 3, "unit": "msk" },
+    { "name": "Vetemjöl", "amount": 1, "unit": "dl" },
+    { "name": "Strösocker", "amount": 1.5, "unit": "dl" },
+    { "name": "Ägg", "amount": 2, "unit": "st" }
+  ]
+}
+
+]
