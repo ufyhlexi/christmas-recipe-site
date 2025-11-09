@@ -30,18 +30,18 @@ async function getRecipes() {
 
     const response = await axios.get(API_URL);
 
-    console.log("\n✅ Request successful!");
-    console.log("📊 Response status:", response.status);
-    console.log("📦 Number of recipes:", response.data.length);
+    console.log("\n Request successful!");
+    console.log("Response status:", response.status);
+    console.log("Number of recipes:", response.data.length);
     
     if (response.data.length > 0) {
-      console.log("\n📋 Example of first recipe:");
+      console.log("\n Example of first recipe:");
       console.log(JSON.stringify(response.data[0], null, 2));
       
       // Search for recipe with difficulty field among recently sent recipes
       const recipeWithDifficulty = response.data.find((r: ApiRecipe) => r.difficulty);
       if (recipeWithDifficulty) {
-        console.log("\n📋 Example of recipe with difficulty field:");
+        console.log("\n Example of recipe with difficulty field:");
         console.log(`   Title: ${recipeWithDifficulty.title}`);
         console.log(`   Difficulty: ${recipeWithDifficulty.difficulty}`);
         console.log(`   ID: ${recipeWithDifficulty._id}`);
@@ -51,7 +51,7 @@ async function getRecipes() {
     console.log("\n✨ All data retrieved successfully!");
 
   } catch (error) {
-    console.error("\n❌ Error during request:");
+    console.error("\n ❌ Error during request:");
     if (error instanceof Error) {
       console.error("Message:", error.message);
       if (axios.isAxiosError(error)) {
